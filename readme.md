@@ -13,3 +13,8 @@ git push -u origin main
 git remote add origin https://github.com/deathxxx/zmk-config-1.git
 git branch -M main
 git push -u origin main
+
+
+https://kriscables.com/zmk-firmware-nicenano/
+
+config - corne
